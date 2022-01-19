@@ -1,0 +1,15 @@
+﻿  esprimo_iterativo.c
+C:\Users\adria\OneDrive - Universidad Politécnica de Madrid\cosas uni\tercero\Programacion de sistemas\trabajo_algoritmica\esprimo_iterativo.c(20,10): fatal error C1083: No se puede abrir el archivo incluir: 'sys/time.h': No such file or directory
+  esprimo_recursivo.c
+C:\Users\adria\OneDrive - Universidad Politécnica de Madrid\cosas uni\tercero\Programacion de sistemas\trabajo_algoritmica\esprimo_recursivo.c(20,10): fatal error C1083: No se puede abrir el archivo incluir: 'sys/time.h': No such file or directory
+  experimentos.c
+C:\Users\adria\OneDrive - Universidad Politécnica de Madrid\cosas uni\tercero\Programacion de sistemas\trabajo_algoritmica\experimentos.c(23,10): fatal error C1083: No se puede abrir el archivo incluir: 'sys/time.h': No such file or directory
+  main.c
+C:\Users\adria\OneDrive - Universidad Politécnica de Madrid\cosas uni\tercero\Programacion de sistemas\trabajo_algoritmica\main.c(56,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\adria\OneDrive - Universidad Politécnica de Madrid\cosas uni\tercero\Programacion de sistemas\trabajo_algoritmica\main.c(123,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main_submenus.c
+C:\Users\adria\OneDrive - Universidad Politécnica de Madrid\cosas uni\tercero\Programacion de sistemas\trabajo_algoritmica\main_submenus.c(46,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\adria\OneDrive - Universidad Politécnica de Madrid\cosas uni\tercero\Programacion de sistemas\trabajo_algoritmica\main_submenus.c(90,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\adria\OneDrive - Universidad Politécnica de Madrid\cosas uni\tercero\Programacion de sistemas\trabajo_algoritmica\main_submenus.c(92,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  mostrar_primos.c
+  Generando código...
